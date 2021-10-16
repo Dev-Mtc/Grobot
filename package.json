@@ -1,0 +1,22 @@
+{
+  "name": "grobotv1",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Mtc/Grobot.git"
+  },
+  "author": "Mtc Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Mtc/Grobot/issues"
+  },
+  "homepage": "https://github.com/Dev-Mtc/Grobot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
