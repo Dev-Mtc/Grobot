@@ -1,1 +1,1 @@
-Discord bot in js. Project started 16/10/2021 at 19 pm.
+Discord bot in js. 
